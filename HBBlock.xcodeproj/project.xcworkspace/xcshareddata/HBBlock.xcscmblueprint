@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5879254d-74f8-024b-92d2-67986538f230",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5879254d-74f8-024b-92d2-67986538f230" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5879254d-74f8-024b-92d2-67986538f230" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "27FAA656-903F-4A8B-A488-19E1DDF93982",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5879254d-74f8-024b-92d2-67986538f230" : "HBShopManage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HBBlock",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HBShopManage\/HBShopManage\/Target\/View\/subView\/HBBlock\/HBBlock.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/120.24.239.93\/HBShopManage",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5879254d-74f8-024b-92d2-67986538f230"
+    }
+  ]
+}
